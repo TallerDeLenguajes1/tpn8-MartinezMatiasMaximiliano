@@ -1,0 +1,15 @@
+C:\Repogit\tpn8-MartinezMatiasMaximiliano\CalculadoraLista\bin\Debug\netcoreapp3.1\CalculadoraLista.exe
+C:\Repogit\tpn8-MartinezMatiasMaximiliano\CalculadoraLista\bin\Debug\netcoreapp3.1\CalculadoraLista.deps.json
+C:\Repogit\tpn8-MartinezMatiasMaximiliano\CalculadoraLista\bin\Debug\netcoreapp3.1\CalculadoraLista.runtimeconfig.json
+C:\Repogit\tpn8-MartinezMatiasMaximiliano\CalculadoraLista\bin\Debug\netcoreapp3.1\CalculadoraLista.runtimeconfig.dev.json
+C:\Repogit\tpn8-MartinezMatiasMaximiliano\CalculadoraLista\bin\Debug\netcoreapp3.1\CalculadoraLista.dll
+C:\Repogit\tpn8-MartinezMatiasMaximiliano\CalculadoraLista\bin\Debug\netcoreapp3.1\CalculadoraLista.pdb
+C:\Repogit\tpn8-MartinezMatiasMaximiliano\CalculadoraLista\obj\Debug\netcoreapp3.1\CalculadoraLista.csprojAssemblyReference.cache
+C:\Repogit\tpn8-MartinezMatiasMaximiliano\CalculadoraLista\obj\Debug\netcoreapp3.1\CalculadoraLista.Form1.resources
+C:\Repogit\tpn8-MartinezMatiasMaximiliano\CalculadoraLista\obj\Debug\netcoreapp3.1\CalculadoraLista.csproj.GenerateResource.cache
+C:\Repogit\tpn8-MartinezMatiasMaximiliano\CalculadoraLista\obj\Debug\netcoreapp3.1\CalculadoraLista.AssemblyInfoInputs.cache
+C:\Repogit\tpn8-MartinezMatiasMaximiliano\CalculadoraLista\obj\Debug\netcoreapp3.1\CalculadoraLista.AssemblyInfo.cs
+C:\Repogit\tpn8-MartinezMatiasMaximiliano\CalculadoraLista\obj\Debug\netcoreapp3.1\CalculadoraLista.csproj.CoreCompileInputs.cache
+C:\Repogit\tpn8-MartinezMatiasMaximiliano\CalculadoraLista\obj\Debug\netcoreapp3.1\CalculadoraLista.dll
+C:\Repogit\tpn8-MartinezMatiasMaximiliano\CalculadoraLista\obj\Debug\netcoreapp3.1\CalculadoraLista.pdb
+C:\Repogit\tpn8-MartinezMatiasMaximiliano\CalculadoraLista\obj\Debug\netcoreapp3.1\CalculadoraLista.genruntimeconfig.cache
